@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Andrew @DiLernia
 - 👀 I’m interested in predictive modeling, computing, data visualization, machine learning methods, and teaching.
-- 🌱 Currently I'm finishing my dissertation, teaching as an adjunct statistics instructor for [Augsburg University](https://www.augsburg.edu/), and learning more Python and SQL to supplement my favored language of R.
+- 📃 Currently I'm finishing my dissertation at the University of Minnesota in Biostatistics while teaching as an adjunct statistics instructor for [Augsburg University](https://www.augsburg.edu/) 
+- 🌱 I'm also learning more Python and SQL to supplement my favored language of R.
 - 📫 Email is the best way to reach me: andrew.s.dilernia@gmail.com
-- :bar_chart: Check out some of my collaborative projects and R packages in the pinned repos below!
+- 📊 Check out some of my collaborative projects and R packages in the pinned repos below!
 
 <!---
 dilernia/dilernia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
