@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://raw.githubusercontent.com/dilernia/dilernia/master/cvCloud.png)
 
-<p align="center">
+<center>
 ☁️ This word cloud for my [CV](https://www.andrewdilernia.com/files/andrew-dilernia-cv.pdf) was made using the [`wordcloud2`](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html) package. ☁️
-</p>
+</center>
