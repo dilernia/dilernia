@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilernia
+- 👋 Hi, I’m Andrew @DiLernia
 - 👀 I’m interested in predictive modeling, computing, data visualization, machine learning methods, and teaching.
 - 🌱 I’m currently learning more Python and SQL to supplement my favored language of R.
 - 📫 Email is the best way to reach me: andrew.s.dilernia@gmail.com
